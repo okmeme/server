@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "@okmeme/server",
   "version": "0.0.1",
   "repository": "git@github.com:okmeme/server.git",
   "license": "UNLICENSED"
